@@ -10,7 +10,7 @@ return [
   'locale' => 'en_US',
   'fallback_locale' => 'en',
   'faker_locale' => 'en_US',
-  'key' => env('APP_KEY'),
+  'key' => env('APP_KEY','base64:jeHkp0JRo6W5rkdaZ81llQ/QezhUYA+TnT29aU7RYQU='),
   'cipher' => 'AES-256-CBC',
   'log' => 'daily',
   'providers' => [

@@ -25,8 +25,8 @@ class Ui
 
     public function __construct()
     {
-        $this->admin_logo_login = modules_url() . 'microweber/api/libs/mw-ui/assets/img/logo.svg';
-        $this->logo_live_edit = modules_url() . 'microweber/api/libs/mw-ui/assets/img/logo-mobile.svg';
+        $this->admin_logo_login = modules_url() . 'cotiqu/assets/img/logo.png';
+        $this->logo_live_edit = modules_url() . 'cotiqu/assets/img/favicon.png';
         if (mw_is_installed()) {
             $this->defaults();
         }
