@@ -5,6 +5,8 @@ return [
   'env' => env('APP_ENV', 'production'),
   'debug' => (bool) env('APP_DEBUG', false),
   'url' => env('APP_URL', 'http://cmsweb.local/'),
+  'login_url' => env('APP_LOGIN_URL', 'https://dev-orb.cotiqu.com.au/login'),
+  'reg_url' => env('APP_REG_URL', 'https://dev-orb.cotiqu.com.au/register'),
   'asset_url' => env('ASSET_URL', null),
   'timezone' => env('APP_TIMEZONE', 'Europe/London'),
   'locale' => 'en_US',
