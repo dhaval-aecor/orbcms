@@ -22,10 +22,10 @@
                         class="icon sl-icon-envelope-open"></span><strong>info@aotiqu.com.au</strong></a>
                   </li>
                   <li class="signin edit">
-                    <a href="https://orb.test/login">Login</a>
+                    <a href="https://dev-orb.cotiqu.com.au/login">Login</a>
                   </li>
                   <li class="signup edit">
-                    <a href="https://orb.test/register">Create Account</a>
+                    <a href="https://dev-orb.cotiqu.com.au/register">Create Account</a>
                   </li>
                 </ul>
               </div>

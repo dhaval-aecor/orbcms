@@ -41,7 +41,7 @@ if (page_title()) {
             <div class="text-column col-lg-12 col-md-12 col-sm-12">
                 <div class="inner">
 
-                    <div class="text-content text-content-term-new edit">
+                    <div class="text-content text-content-term-new">
                         <div class="mw-empty-element"></div>
                     </div>
                 </div>
