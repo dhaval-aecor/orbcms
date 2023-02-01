@@ -1,30 +1,29 @@
 <header class="main-header header-style-one">
       <!-- Header Top -->
-      <div class="header-top header-top-one">
+      <!-- <div class="header-top header-top-one">
         <div class="auto-container">
           <div class="inner clearfix">
             <div class="top-left clearfix">
-              <div class="top-text edit">
+              <div class="top-text edit" field="contiqu_top_header_text" rel="global">
                     <p>Independent IT services to the association industry.</p>
               </div>
             </div>
 
             <div class="top-right clearfix">
-              <!--Info-->
               <div class="info">
                 <ul class="clearfix">
-                  <li class="phone edit">
+                  <li class="phone edit" field="contiqu_top_header_phone" rel="global">
                     <a href="tel:0401724083"><span class="icon sl-icon-call-in"></span>
                       <strong>04017 24083</strong></a>
                   </li>
-                  <li class="email edit">
+                  <li class="email edit" field="contiqu_top_header_email" rel="global">
                     <a href="mailto:info@aotiqu.com.au"><span
                         class="icon sl-icon-envelope-open"></span><strong>info@aotiqu.com.au</strong></a>
                   </li>
-                  <li class="signin edit">
+                  <li class="signin edit" field="contiqu_top_header_login_url" rel="global">
                     <a href="<?=config('app.login_url')?>">Login</a>
                   </li>
-                  <li class="signup edit">
+                  <li class="signup edit" field="contiqu_top_header_register_url" rel="global">
                     <a href="<?=config('app.reg_url')?>">Create Account</a>
                   </li>
                 </ul>
@@ -32,7 +31,7 @@
             </div>
           </div>
         </div>
-      </div>
+      </div> -->
 
       <!-- Header Upper -->
       <div class="header-upper">

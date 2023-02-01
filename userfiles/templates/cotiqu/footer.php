@@ -8,7 +8,7 @@
         <div class="auto-container">
           <div class="row clearfix">
             <!--Column-->
-            <div class="column col-xl-3 col-lg-12 col-md-12 col-sm-12 edit nodrop safe-mode">
+            <div class="column col-xl-3 col-lg-12 col-md-12 col-sm-12 edit nodrop safe-mode" field="contiqu_footer_about_info" rel="global">
               <div class="footer-widget about-widget">
                 <div class="logo">
                   <a href="#"><img src="<?php print template_url(); ?>theme/assets/images/contiqu-logo.png" alt="" /></a>
@@ -63,12 +63,12 @@
               </div>
 
               <div class="main-it-service-footer">
-                <div class="it-service-footer edit">
+                <div class="it-service-footer edit" field="contiqu_service_footer_text" rel="global">
                   <h4>Independent IT services to the association industry.</h4>
                   <p>Specialists in<strong><a> Association Management Systems</a></strong></p>
                 </div>
               </div>
-              <div class="main-linkedin-icon edit">
+              <div class="main-linkedin-icon edit" field="contiqu_footer_social_link" rel="global">
                 <div class="linkedin-icon">
                   <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Pro 6.2.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2022 Fonticons, Inc. --><path d="M100.28 448H7.4V148.9h92.88zM53.79 108.1C24.09 108.1 0 83.5 0 53.8a53.79 53.79 0 0 1 107.58 0c0 29.7-24.1 54.3-53.79 54.3zM447.9 448h-92.68V302.4c0-34.7-.7-79.2-48.29-79.2-48.29 0-55.69 37.7-55.69 76.7V448h-92.78V148.9h89.08v40.8h1.3c12.4-23.5 42.69-48.3 87.88-48.3 94 0 111.28 61.9 111.28 142.3V448z"/></svg>
                 </div>
@@ -81,8 +81,8 @@
       <!-- Footer Bottom -->
       <div class="footer-bottom">
         <div class="auto-container">
-          <div class="inner main-copyright edit">
-            <div class="copyright">
+          <div class="inner main-copyright">
+            <div class="copyright edit" field="contiqu_footer_copyright" rel="global">
               © 2022 <strong>COTIQU</strong> All rights reserved.
             </div>
           </div>
