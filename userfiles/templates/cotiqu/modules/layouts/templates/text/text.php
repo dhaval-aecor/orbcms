@@ -40,8 +40,7 @@ if (page_title()) {
             <!--Text Column-->
             <div class="text-column col-lg-12 col-md-12 col-sm-12">
                 <div class="inner">
-
-                    <div class="text-content text-content-term-new">
+                    <div class="text-content text-content-term-new edit" field="layout-text-<?php print $params['id'] ?>" rel="module">
                         <div class="mw-empty-element"></div>
                     </div>
                 </div>

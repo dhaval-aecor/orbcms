@@ -99,7 +99,7 @@
             <!--Here Menu Will Come Automatically Via Javascript / Same Menu as in Header-->
           </div>
           <!--Social Links-->
-          <div class="social-links">
+          <!-- <div class="social-links">
             <ul class="clearfix">
               <li>
                 <a href="#"><span class="fab fa-twitter"></span></a>
@@ -117,7 +117,7 @@
                 <a href="#"><span class="fab fa-youtube"></span></a>
               </li>
             </ul>
-          </div>
+          </div> -->
         </nav>
       </div>
       <!-- End Mobile Menu -->

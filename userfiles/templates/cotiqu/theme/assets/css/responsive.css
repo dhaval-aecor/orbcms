@@ -2,11 +2,11 @@
 	.page-wrapper{
 		overflow: hidden;
 	}
-	
+
 }
 
 @media only screen and (max-width: 1650px){
-	
+
 }
 
 @media only screen and (max-width: 1340px){
@@ -204,7 +204,7 @@
 	}
 }
 
-@media only screen and (max-width: 991px){	
+@media only screen and (max-width: 991px){
 	.main-header .nav-outer .main-menu,
 	.sticky-header{
 		display: none !important;
@@ -406,7 +406,7 @@
 	}
 }
 
-@media only screen and (max-width: 767px){	
+@media only screen and (max-width: 767px){
 	.main-header .header-top .top-right{
 		width: 100%;
 		text-align: center;
@@ -423,7 +423,7 @@
 	}
 	.main-it-service-footer {
 		width: 100%;
-	
+
 	}
 	.main-linkedin-icon {
 		width: 100%;
@@ -528,6 +528,10 @@
 	.main-footer .widgets-section{
 		text-align: center;
 	}
+    .main-footer .about-widget .logo a {
+        margin: auto;
+        display: block;
+    }
 
 	.sec-title h2,
 	.default-bg-section .content-box h2,
@@ -647,7 +651,7 @@
 	.banner-carousel .content-box h1{
 		font-size: 30px;
 	}
-	
+
 	.sec-title h2,
 	.default-bg-section .content-box h2,
 	.video-section h2,
